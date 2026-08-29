@@ -1,0 +1,14 @@
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\bin\Debug\net10.0\BibliotecaApp_Evaluacion..exe
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\bin\Debug\net10.0\BibliotecaApp_Evaluacion..deps.json
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\bin\Debug\net10.0\BibliotecaApp_Evaluacion..runtimeconfig.json
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\bin\Debug\net10.0\BibliotecaApp_Evaluacion..dll
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\bin\Debug\net10.0\BibliotecaApp_Evaluacion..pdb
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\BibliotecaApp_Evaluacion..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\BibliotecaApp_Evaluacion..AssemblyInfoInputs.cache
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\BibliotecaApp_Evaluacion..AssemblyInfo.cs
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\BibliotecaApp_Evaluacion..csproj.CoreCompileInputs.cache
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\BibliotecaApp_Evaluacion..dll
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\refint\BibliotecaApp_Evaluacion..dll
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\BibliotecaApp_Evaluacion..pdb
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\BibliotecaApp_Evaluacion..genruntimeconfig.cache
+C:\Users\victo\Documents\GitHub\periodo_4progra2\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\BibliotecaApp_Evaluacion\obj\Debug\net10.0\ref\BibliotecaApp_Evaluacion..dll

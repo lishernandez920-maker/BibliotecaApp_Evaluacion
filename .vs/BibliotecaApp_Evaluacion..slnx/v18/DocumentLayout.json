@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\victo\\Documents\\GitHub\\periodo_4progra2\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC499645-B954-4B3B-B3C7-6BAF65A5806B}|..\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion..csproj|c:\\users\\victo\\documents\\github\\periodo_4progra2\\bibliotecaapp_evaluacion\\bibliotecaapp_evaluacion\\bibliotecaapp_evaluacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC499645-B954-4B3B-B3C7-6BAF65A5806B}|..\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion..csproj|solutionrelative:bibliotecaapp_evaluacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC499645-B954-4B3B-B3C7-6BAF65A5806B}|..\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion..csproj|c:\\users\\victo\\documents\\github\\periodo_4progra2\\bibliotecaapp_evaluacion\\bibliotecaapp_evaluacion\\bibliotecaapp_evaluacion\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC499645-B954-4B3B-B3C7-6BAF65A5806B}|..\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion..csproj|solutionrelative:bibliotecaapp_evaluacion\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC499645-B954-4B3B-B3C7-6BAF65A5806B}|..\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion..csproj|c:\\users\\victo\\documents\\github\\periodo_4progra2\\bibliotecaapp_evaluacion\\bibliotecaapp_evaluacion\\bibliotecaapp_evaluacion\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC499645-B954-4B3B-B3C7-6BAF65A5806B}|..\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion..csproj|solutionrelative:bibliotecaapp_evaluacion\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\GitHub\\periodo_4progra2\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\Actor.cs",
+              "RelativeDocumentMoniker": "BibliotecaApp_Evaluacion\\Actor.cs",
+              "ToolTip": "C:\\Users\\victo\\Documents\\GitHub\\periodo_4progra2\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\Actor.cs",
+              "RelativeToolTip": "BibliotecaApp_Evaluacion\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T14:00:12.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\GitHub\\periodo_4progra2\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\Libro.cs",
+              "RelativeDocumentMoniker": "BibliotecaApp_Evaluacion\\Libro.cs",
+              "ToolTip": "C:\\Users\\victo\\Documents\\GitHub\\periodo_4progra2\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\Libro.cs",
+              "RelativeToolTip": "BibliotecaApp_Evaluacion\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:59:50.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\Documents\\GitHub\\periodo_4progra2\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\Program.cs",
+              "RelativeDocumentMoniker": "BibliotecaApp_Evaluacion\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\Documents\\GitHub\\periodo_4progra2\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\BibliotecaApp_Evaluacion\\Program.cs",
+              "RelativeToolTip": "BibliotecaApp_Evaluacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:58:01.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
